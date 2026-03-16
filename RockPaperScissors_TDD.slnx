@@ -4,4 +4,5 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="RockPaperScissors_TDD/RockPaperScissors_TDD.vcxproj" />
+  <Project Path="RPSTests/RPSTests.vcxproj" />
 </Solution>
