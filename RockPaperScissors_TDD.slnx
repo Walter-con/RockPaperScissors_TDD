@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="RockPaperScissors_TDD/RockPaperScissors_TDD.vcxproj" />
+</Solution>
